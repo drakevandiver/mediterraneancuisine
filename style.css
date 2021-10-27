@@ -1,0 +1,11 @@
+.navbar-light {
+    background: #EDC162;
+}
+
+.p-3 {
+    padding: $spacer !important;
+  }
+
+  .ms-1 {
+    margin-left: ($spacer * .25) !important;
+  }
