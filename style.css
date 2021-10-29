@@ -9,3 +9,7 @@
   .ms-1 {
     margin-left: ($spacer * .25) !important;
   }
+
+  .text-w {
+    text: white;
+  }
