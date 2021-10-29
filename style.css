@@ -2,14 +2,30 @@
     background: #EDC162;
 }
 
-.p-3 {
-    padding: $spacer !important;
-  }
-
-  .ms-1 {
+.ms-1 {
     margin-left: ($spacer * .25) !important;
-  }
+}
 
-  .text-w {
+.text-w {
     text: white;
-  }
+}
+
+.navbar-back {
+  background-color: #EDC162;
+}
+
+.seablue-div {
+  background-color: aqua;
+}
+
+.page-back {
+  background-color: #E4D794;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.border {
+  border: 5px solid;
+}
