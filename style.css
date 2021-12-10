@@ -2,14 +2,7 @@
     background: #EDC162;
 }
 
-.ms-1 {
-    margin-left: ($spacer * .25) !important;
-    padding-top: 10px;
-}
 
-.text-w {
-    text: white;
-}
 
 .navbar-back {
   background-color: #EDC162;
@@ -37,9 +30,9 @@
   transform: translatex(-50%);
 }
 
-.arabic {
 
-}
+
+
 
 .gradient {
 color: #d6d27f;
